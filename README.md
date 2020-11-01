@@ -1,2 +1,2 @@
-# Diseño de Sistemas Digitales
-Repositorio de la materia de DSD con la profesora Claudia en ESCOM IPN.
+# Administración financiera
+Repositorio de la materia de Administración Financiera con el profesor Eduardo Flores en ESCOM IPN.
